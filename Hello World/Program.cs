@@ -13,7 +13,5 @@ namespace HelloWord
             Console.WriteLine("Hello World");
             Console.WriteLine("I love football");
         }
-
     }
-
 }
